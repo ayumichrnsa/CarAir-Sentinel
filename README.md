@@ -1,7 +1,13 @@
 # CarAir-Sentinel
 # About
 Vehicle-related air pollution is a serious issue that is sometimes ignored. Carbon monoxide (CO) and carbon dioxide (CO2), two hazardous chemicals, can accumulate to lethal quantities in small areas, like an automobile cabin. When breathed in in big enough quantities, carbon monoxide, an extremely toxic and odorless gas, can be fatally poisonous. On the other hand, breathing difficulties and other health issues can be brought on by elevated carbon dioxide concentrations. The concentration of this gas in the automobile must therefore be detected and controlled by a system.
-# Materials
+# Built it
+This section should list components required to get started:
+
+Software
+* [![Arduino][Arduino IDE]][arduino-url]
+
+Hardware
 1. Microcontroller : ESP32
 2. Sensors : Gas Sensor MQ-135
 3. Actuator : Relay 1 Chanel & Motor Servo
